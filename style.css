@@ -4,13 +4,11 @@
 }
 body{
 	background-color: wheat;
-	background-position: center;
 	background-size: cover;
-	box-sizing: border-box;
 	font-family: sans-serif;
-	overflow: visible;
+	line-height: 1.5;
+	width: 100%;
 }
-
 
 header {
   background-color: rgb(0, 0, 100);
